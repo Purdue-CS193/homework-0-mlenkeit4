@@ -1,3 +1,12 @@
+# hey ima format some stuff
+**whoa this is boldface thats wacky**
+_italicization is also kinda neat_
+`System.out.println("Hello world");`
+[link to this page](https://purdue-cs193.github.io/homework-0-mlenkeit4/)
+- lists
+- are
+- cool
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
