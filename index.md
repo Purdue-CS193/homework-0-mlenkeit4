@@ -1,8 +1,18 @@
-# hey ima format some stuff
+# Michael Lenkeit's First CS193 Homework
+
+Favorite things about CS 193:
+- I'll get to learn how to use important stuff like Github and text editors that I haven't messed around with yet
+- The class doesn't seem that stressful so I'll be able to learn effectively
+- The tools seem fun to mess around with, there's a lot of creative applications for stuff
+- It seems neat overall, idk
+
+# me messing with formatting
 **whoa this is boldface thats wacky**
 _italicization is also kinda neat_
+
 `System.out.println("Hello world");`
 [link to this page](https://purdue-cs193.github.io/homework-0-mlenkeit4/)
+
 - lists
 - are
 - cool
